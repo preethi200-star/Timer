@@ -27,6 +27,9 @@ A simple Python-based countdown timer that takes input in seconds and displays t
    ```bash
    python countdown_timer.py
 4. Enter the time (in seconds) when prompted.
+
+---
+
 **💡 Example Output**
 Enter the time in seconds: 10
 Countdown starting...
